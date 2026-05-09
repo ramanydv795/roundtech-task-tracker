@@ -12,7 +12,7 @@ A professional Task Management mobile application built as part of the technical
 - **Authentication:** JWT (JSON Web Tokens) & Bcrypt password hashing
 
 ## 🎥 Demo Video
-[Click here to watch the demo video](YOUR_GOOGLE_DRIVE_OR_LOOM_LINK_HERE)
+[Click here to watch the demo video](drive.google.com/file/d/1izO5hmjIYUe_I7Pk1dl5hEXL1d9zfiAM/view?usp=drivesdk)
 *(Or check the `demo.mp4` file in this repository)*
 
 ## ✨ Key Features
