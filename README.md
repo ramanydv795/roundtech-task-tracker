@@ -13,7 +13,7 @@ A professional Task Management mobile application built as part of the technical
 
 ## 🎥 Demo Video
 [Click here to watch the demo video](drive.google.com/file/d/1izO5hmjIYUe_I7Pk1dl5hEXL1d9zfiAM/view?usp=drivesdk)
-*(Or check the `demo.mp4` file in this repository)*
+*(Or check the `demo.mp4` file in this repository)*.
 
 ## ✨ Key Features
 - **Secure Auth:** Signup and Login flow with encrypted passwords.
